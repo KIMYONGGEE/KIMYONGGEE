@@ -11,6 +11,6 @@
 
 ### FrameWork : </br><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black"/></a><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ykkim6872)](https://solved.ac/ykkim6872)
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ykkim6872)](https://solved.ac/ykkim6872)-->
 
 
