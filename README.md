@@ -1,3 +1,5 @@
+<div align=center>
+  
 ## Hello, World! Hello, World! 👋
 
 
@@ -6,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KIMYONGGEE&rank=S,A,AA,AAA,B,BB,BBB,C,CC,CCC)](https://github.com/KIMYONGGEE)</br>
 
 
-<div align=center>
+
 
 ![KIMYONGGEE's github stats](https://github-readme-stats.vercel.app/api?username=KIMYONGGEE&show_icons=true)
 
