@@ -7,7 +7,7 @@
 
 </br></br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KIMYONGGEE&rank=S,A,AA,AAA,B,BB,BBB,C,CC,CCC)](https://github.com/KIMYONGGEE)</br> 
+### GitHub Activity  </br>[![trophy](https://github-profile-trophy.vercel.app/?username=KIMYONGGEE&rank=S,A,AA,AAA,B,BB,BBB,C,CC,CCC)](https://github.com/KIMYONGGEE)</br> 
 
 
   
