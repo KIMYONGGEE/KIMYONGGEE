@@ -2,6 +2,26 @@
 <div align=center>
 # Hello, World! Hello, World! 👋
 </div>
+  1. array / matrix
+2. help
+3. 명령 창
+4. A = [1, 3; 5, 7];
+5. grid
+6. figure();
+7. .m
+8. codegen
+9. Model-based Design
+10. System Target File
+11. Scope
+12. Subsystem
+13. N-d Lookup Table
+14. Code Generation Report
+15. Infinite State Machine
+16. Compiler
+17. Model Explorer
+18. /
+19. State Hierarchy
+20. Flow Chart
 
 🌱 I’m currently learning :  Android/IOS Cross-Platfrom for Real Time Messaging Protocol , TensorFlow Lite , Spring</br>✨Please Visit My Application -->  [보이스피싱/스미싱감지 애플리케이션 : 폴보스(충북경찰)](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000751975)</br> 💎삼성 청년 SW 아카데미 5기(SSAFY 5th) 
 
